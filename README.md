@@ -979,6 +979,8 @@ Free & open-source.
 | | Name | Description | Deal                                          | Expires on date |
 | - | - | - |-----------------------------------------------| - |
 | 🗣️ | [VoxWrite](https://voxwrite.app) | Voice to text with AI transformation | **30% OFF** with code BF2025 on LIFETIME plan | 2025-11-30 |
+| 📚 | [Library Proxy for NTU](https://chromewebstore.google.com/detail/load-ntu-libproxy/bnmapkocoojpnakdmggpiidlgehphbfk) | Chrome Extension that automates NTU library proxy | Free for anyone, no sign ups | 2026-12-06 |
+| 📚 | [Library Proxy for NUS](https://chromewebstore.google.com/detail/load-nus-libproxy/aifpbokcaildelglfhkpjhfeecahgphd) | Chrome Extension that automates NUS library proxy. | Free for anyone, no sign ups | 2026-12-06 |
 
 
 ### Libraries & More
